@@ -1,0 +1,56 @@
+Node JS --- Create a server, backend development.
+    java script , c++
+    Runtime environment - 
+
+Back-end developemnt -- connect web and database
+ Request 
+ Response
+
+
+ Browser -- JS engine -- to run javascript
+ chrome - V8 -- Nodejs
+ Firefox - Spidermonkey
+ Safari - Nitro
+
+ -- Node Js is a 
+ Asynchrous
+ single thread and Nonblocking.
+
+ Uses --
+ Web development
+ server side 
+ Desktop App -- VS code
+ Mobile App -- Uber 
+ Machine learning
+ React Api
+
+
+
+// install JS
+
+Modules -- 
+    Native Modules  / core -- Http,FS,events,os,path
+    User-defined-- user-registation, Restratuants etc
+    3rd party / NPM mopdules -- react ,redux and express.
+
+//Http Module 
+    Request 
+    Response
+
+//FS -- File system
+Create
+Update
+read
+delete
+
+
+//3rd party madules -- react,redux and express.
+    NPM Modules /Packages
+        NPM - NODE PACKAGE MANAGER -- OPEN SOURSE REPOSITORY -- Git hub  ---> Microsoft
+    
+    NPM CLI -- Command line interface -- commands
+
+        handle your application  -- Confiugaration ---
+        install
+        Update
+        uninstall
